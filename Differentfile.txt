@@ -1,0 +1,3 @@
+Difffile: line 1
+Difffile: line 2
+Difffile: line 3
