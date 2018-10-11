@@ -6,6 +6,13 @@ Commonfile: line 5
 Commonfile: line 6
 Commonfile: Feature002 changes
 Commonfile: Feature001
+<<<<<<< HEAD
 Commonfile: line 7a 
 Commonfile: line 7b 
 Commonfile: line 7c
+=======
+Commonfile: line 7
+Commonfile: line 8
+Commonfile: line 9
+
+>>>>>>> 0cc6712d6b4c0c593dfd055620cbd7f6174b2cd7
