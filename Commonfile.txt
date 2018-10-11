@@ -34,4 +34,8 @@ Commonfile: line 11a
 >>>>>>> line 11a commit
 =======
 Commonfile: line 12a
+<<<<<<< HEAD
 >>>>>>> line 12a commit
+=======
+Commonfile: line 13a
+>>>>>>> line 13a commit
